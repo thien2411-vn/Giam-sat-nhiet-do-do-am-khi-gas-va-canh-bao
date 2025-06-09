@@ -24,17 +24,6 @@
 - Kết nối ESP32 với các cảm biến, relay, loa... theo sơ đồ nguyên lý trong file **`LinhKien_SoDoNguyenLy.pdf`**.
 - Mở app Blynk và trải nghiệm dự án!
 
----
-
-## 📷 Hình ảnh demo (tùy chọn)
-*Thêm ảnh/gif minh họa nếu có.*
-
----
-
 ## 👨‍💻 Tác giả
-Dự án được thực hiện bởi: **[Tên bạn hoặc GitHub username]**
+Dự án được thực hiện bởi: **Phạm Quốc Thiên**
 
----
-
-## 📄 Giấy phép
-MIT License
