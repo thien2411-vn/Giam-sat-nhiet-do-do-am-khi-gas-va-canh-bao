@@ -25,5 +25,5 @@
 - Mở app Blynk và trải nghiệm dự án!
 
 ## 👨‍💻 Tác giả
-Dự án được thực hiện bởi: **Phạm Quốc Thiên**
+Project được thực hiện bởi: **Phạm Quốc Thiên**
 
