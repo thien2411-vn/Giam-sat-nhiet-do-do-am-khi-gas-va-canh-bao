@@ -1,7 +1,40 @@
-********** Chào mừng đến với thiên đường ESP **********
-Ở trên là một project nhỏ trong việc ứng dụng các cảm biến DHT11 và MQ2 để đọc nhiệt độ độ ẩm và khí gas từ môi trường, cảnh báo cháy nổ hoặc có rò rỉ khí gas thông qua app Blynk-Iot.
-Sau đây là các bước thực hiện để sở hữu cho mình một dự án nho nhỏ:
-B1: Chuẩn bị đầy đủ các linh kiện như trong file LinhKien_SoDoNguyenLy.
-B2: Nạp code cho ESP32 bằng file Code.ino.
-*Lưu ý: Thay đổi địa chỉ Blynk và wifi của bạn.
-B3: Lắp đặt kết nối ESP32 với các thiết bị ngoại vi như sơ đồ nguyên lý trong file LinhKien_SoDoNguyenLy và trải nghiệm.
+# 🌟 Chào mừng đến với Thiên Đường ESP 🌟
+
+Đây là một project nhỏ ứng dụng các cảm biến **DHT11** và **MQ2** để:
+
+- Đọc **nhiệt độ**, **độ ẩm** và **khí gas** từ môi trường.
+- **Cảnh báo cháy nổ** hoặc **rò rỉ khí gas**.
+- Kết nối và hiển thị dữ liệu qua **app Blynk IoT**.
+
+---
+
+## 🧾 Các bước thực hiện
+
+### 📌 Bước 1: Chuẩn bị linh kiện
+- Chuẩn bị đầy đủ các linh kiện như trong file **`LinhKien_SoDoNguyenLy.pdf`**.
+
+### 🧠 Bước 2: Nạp chương trình
+- Mở file **`Code.ino`** bằng Arduino IDE.
+- Nạp code vào **ESP32**.
+- ⚠️ **Lưu ý**:
+  - Thay đổi địa chỉ **Blynk Auth Token**.
+  - Cập nhật **WiFi SSID** và **mật khẩu** phù hợp với mạng của bạn.
+
+### 🔌 Bước 3: Kết nối phần cứng
+- Kết nối ESP32 với các cảm biến, relay, loa... theo sơ đồ nguyên lý trong file **`LinhKien_SoDoNguyenLy.pdf`**.
+- Mở app Blynk và trải nghiệm dự án!
+
+---
+
+## 📷 Hình ảnh demo (tùy chọn)
+*Thêm ảnh/gif minh họa nếu có.*
+
+---
+
+## 👨‍💻 Tác giả
+Dự án được thực hiện bởi: **[Tên bạn hoặc GitHub username]**
+
+---
+
+## 📄 Giấy phép
+MIT License
