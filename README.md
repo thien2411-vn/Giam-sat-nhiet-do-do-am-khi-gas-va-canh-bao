@@ -21,7 +21,7 @@
   - Cập nhật **WiFi SSID** và **mật khẩu** phù hợp với mạng của bạn.
 
 ### 🔌 Bước 3: Kết nối phần cứng
-- Kết nối ESP32 với các cảm biến, relay, loa... theo sơ đồ nguyên lý trong file **`LinhKien_SoDoNguyenLy.pdf`**.
+- Kết nối ESP32 với các cảm biến theo sơ đồ nguyên lý trong file **`LinhKien_SoDoNguyenLy.pdf`**.
 - Mở app Blynk và trải nghiệm dự án!
 
 ## 👨‍💻 Tác giả
