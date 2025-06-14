@@ -1,6 +1,6 @@
 # 🌟 Chào mừng bạn đến với thiên đường ESP 🌟
 
-Đây là một project nhỏ ứng dụng các cảm biến **DHT11** và **MQ2** để:
+Đây là một project nhỏ ứng dụng vi điều khiển **ESP32** các cảm biến **DHT11** và **MQ2** để:
 
 - Đọc **nhiệt độ**, **độ ẩm** và **khí gas** từ môi trường.
 - **Cảnh báo cháy nổ** hoặc **rò rỉ khí gas**.
