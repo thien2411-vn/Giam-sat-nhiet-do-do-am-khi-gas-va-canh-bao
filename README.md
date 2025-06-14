@@ -1,4 +1,4 @@
-# 🌟 Chào mừng đến với Thiên Đường ESP 🌟
+# 🌟 Chào mừng bạn đến với Thiên Đường ESP 🌟
 
 Đây là một project nhỏ ứng dụng các cảm biến **DHT11** và **MQ2** để:
 
